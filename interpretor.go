@@ -28,6 +28,7 @@ type Interpreter struct {
     text string
 }
 
+// Link returns the request url of google translate
 func (i *Interpreter) Link() string {
     formatter := "?client=%s&ie=%s&oe=%s&sl=%s&tl=%s&dt=%s&q=%s"
     return apiUrl + fmt.Sprintf(
