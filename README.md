@@ -8,7 +8,7 @@ package main
 
 import (
     "fmt"
-    "gum29/translator"
+    "fyh/translator"
 )
 
 func main()  {
