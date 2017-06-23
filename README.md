@@ -25,3 +25,12 @@ output is
 你好，世界
 Hello world!
 ```
+
+# install 
+```
+go get github.com/fyh/interpretor
+```
+
+# documentation
+
+see [http://godoc.org/github.com/fyh/interpretor](http://godoc.org/github.com/fyh/interpretor)
