@@ -8,7 +8,7 @@ package main
 
 import (
     "fmt"
-    "fyh/interpreter"
+    "github.com/fyh/interpretor"
 )
 
 func main()  {
